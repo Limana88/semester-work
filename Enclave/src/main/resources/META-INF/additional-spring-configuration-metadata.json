@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "oauth2.vk.v",
+      "type": "java.lang.String",
+      "description": "Description for oauth2.vk.v."
+  }
+] }
